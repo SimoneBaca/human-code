@@ -17,4 +17,4 @@ Non sarà un pranzo formale, perciò non servono i segnaposto con i nomi, però 
 
     - SE la differenza >= di 0
         - posto per tutti
-        - ALTRIMENTI aggiungiamo |y - x| posti
+    - ALTRIMENTI aggiungiamo |y - x| posti
